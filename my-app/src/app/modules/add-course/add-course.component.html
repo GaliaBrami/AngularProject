@@ -1,0 +1,68 @@
+<!-- <p>add-course works!</p> -->
+<form [formGroup]="courseForm">
+    <div class="form-group">
+        <label for="name">Name:</label>
+        <input id="name" class="form-control" type="text" formControlName="name" [value]="course?.name">
+        <ng-container *ngIf="courseForm.controls['name'].errors">
+            <div class="alert alert-danger" *ngIf="courseForm.controls['name'].errors['required']">This field
+                is required</div>
+                <div class="alert alert-danger" *ngIf="courseForm.controls['name'].errors['pattern']">must start with a capital letter!</div>
+        </ng-container>
+        
+        <label for="category">Category:</label>
+        <select id="category" class="form-control" type="checkbox" formControlName="category" [selectedIndex]="course?.categoryId"  [value]="course?.categoryId">
+            <option *ngFor="let c of categorys" [value]="c.id">{{ c.name }} {{c.iconLink}}</option>
+          </select>
+          <ng-container *ngIf="courseForm.controls['category'].errors">
+           <div class="alert alert-danger" *ngIf="courseForm.controls['category'].errors['required']">This field
+            is required</div>
+        </ng-container> 
+        
+        <label for="lessonsNumber">lessonsNumber:</label>
+        <input id="lessonsNumber" class="form-control" type="number" formControlName="lessonsNumber" [value]="course?.numberOfLessons">
+        <ng-container *ngIf="courseForm.controls['lessonsNumber'].errors">
+            <div class="alert alert-danger" *ngIf="courseForm.controls['lessonsNumber'].errors['required']">This field
+                is required</div>
+        </ng-container>
+        <label for="startDate">startDate:</label>
+        <input id="startDate" class="form-control" type="date" formControlName="startDate" [value]="course?.startDate">
+        <ng-container *ngIf="courseForm.controls['startDate'].errors">
+            <div class="alert alert-danger" *ngIf="courseForm.controls['startDate'].errors['required']">This field
+                is required</div>
+          </ng-container>
+       
+            <label for="syllabus">Syllabus:</label>
+            <ng-container *ngFor="let input of inputs; let i = index">
+               <!-- ?? --><input id="syllabus" formControlName="syllabus" [value]="inputs[i]" class="form-control"(change)="onInput($event, i) ">
+                <div class="alert alert-danger" *ngIf="inputs.length<2">required!!</div>
+              </ng-container>
+            <label for="lernningMode">lernningMode:</label>
+        <select id="lernningMode" class="form-control"  formControlName="lernningMode">
+            <option *ngFor="let c of  modes  "  [value]="c">{{ c }} <img src="{{c|IconPipe}}"/></option><!--?-->
+          </select>
+          <ng-container *ngIf="courseForm.controls['lernningMode'].errors">
+           <div class="alert alert-danger" *ngIf="courseForm.controls['lernningMode'].errors['required']">This field
+            is required</div>
+        </ng-container> 
+        <label for="lecturerId">lecturer:</label>
+
+        <select id="lecturerId" class="form-control"  formControlName="lecturerId"  [value]="course?.lecturerId">
+            <option *ngFor="let l of lecturers" [value]="l.id">{{ l.name }}</option>
+          </select>
+          <ng-container *ngIf="courseForm.controls['lecturerId'].errors">
+           <div class="alert alert-danger" *ngIf="courseForm.controls['lecturerId'].errors['required']">This field
+            is required</div>
+        </ng-container> 
+
+            <label for="picture">picture:</label>
+            <input id="picture" class="form-control" type="text" formControlName="picture" [value]="course?.image">
+            <ng-container *ngIf="courseForm.controls['picture'].errors">
+                <div class="alert alert-danger" *ngIf="courseForm.controls['picture'].errors['required']">This field
+                    is required</div>
+            </ng-container>
+
+    </div>
+
+    <button class="btn btn-primary" (click)="onSubmit()" [disabled]="!courseForm.valid">add course</button>
+    <button class="btn btn-primary" *ngIf="isEdit" (click)="onCancle()" >cancle</button>
+</form>

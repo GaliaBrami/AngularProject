@@ -1,0 +1,135 @@
+Y:\teachers for hitmachut\Malka Bruk\Group1\BasicAPI\BasicAPI\bin\Debug\net6.0\appsettings.Development.json
+Y:\teachers for hitmachut\Malka Bruk\Group1\BasicAPI\BasicAPI\bin\Debug\net6.0\appsettings.json
+Y:\teachers for hitmachut\Malka Bruk\Group1\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.exe
+Y:\teachers for hitmachut\Malka Bruk\Group1\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.deps.json
+Y:\teachers for hitmachut\Malka Bruk\Group1\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.runtimeconfig.json
+Y:\teachers for hitmachut\Malka Bruk\Group1\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.dll
+Y:\teachers for hitmachut\Malka Bruk\Group1\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.pdb
+Y:\teachers for hitmachut\Malka Bruk\Group1\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\teachers for hitmachut\Malka Bruk\Group1\BasicAPI\BasicAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\teachers for hitmachut\Malka Bruk\Group1\BasicAPI\BasicAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\teachers for hitmachut\Malka Bruk\Group1\BasicAPI\BasicAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\teachers for hitmachut\Malka Bruk\Group1\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.csproj.AssemblyReference.cache
+Y:\teachers for hitmachut\Malka Bruk\Group1\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.GeneratedMSBuildEditorConfig.editorconfig
+Y:\teachers for hitmachut\Malka Bruk\Group1\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.AssemblyInfoInputs.cache
+Y:\teachers for hitmachut\Malka Bruk\Group1\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.AssemblyInfo.cs
+Y:\teachers for hitmachut\Malka Bruk\Group1\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.csproj.CoreCompileInputs.cache
+Y:\teachers for hitmachut\Malka Bruk\Group1\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.MvcApplicationPartsAssemblyInfo.cs
+Y:\teachers for hitmachut\Malka Bruk\Group1\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.MvcApplicationPartsAssemblyInfo.cache
+Y:\teachers for hitmachut\Malka Bruk\Group1\BasicAPI\BasicAPI\obj\Debug\net6.0\staticwebassets.build.json
+Y:\teachers for hitmachut\Malka Bruk\Group1\BasicAPI\BasicAPI\obj\Debug\net6.0\staticwebassets.development.json
+Y:\teachers for hitmachut\Malka Bruk\Group1\BasicAPI\BasicAPI\obj\Debug\net6.0\scopedcss\bundle\BasicAPI.styles.css
+Y:\teachers for hitmachut\Malka Bruk\Group1\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.csproj.CopyComplete
+Y:\teachers for hitmachut\Malka Bruk\Group1\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.dll
+Y:\teachers for hitmachut\Malka Bruk\Group1\BasicAPI\BasicAPI\obj\Debug\net6.0\refint\BasicAPI.dll
+Y:\teachers for hitmachut\Malka Bruk\Group1\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.pdb
+Y:\teachers for hitmachut\Malka Bruk\Group1\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.genruntimeconfig.cache
+Y:\teachers for hitmachut\Malka Bruk\Group1\BasicAPI\BasicAPI\obj\Debug\net6.0\ref\BasicAPI.dll
+E:\ו\.Net\BasicAPI\BasicAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\ו\.Net\BasicAPI\BasicAPI\bin\Debug\net6.0\appsettings.json
+E:\ו\.Net\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.exe
+E:\ו\.Net\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.deps.json
+E:\ו\.Net\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.runtimeconfig.json
+E:\ו\.Net\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.dll
+E:\ו\.Net\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.pdb
+E:\ו\.Net\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\ו\.Net\BasicAPI\BasicAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ו\.Net\BasicAPI\BasicAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ו\.Net\BasicAPI\BasicAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ו\.Net\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.csproj.AssemblyReference.cache
+E:\ו\.Net\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\ו\.Net\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.AssemblyInfoInputs.cache
+E:\ו\.Net\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.AssemblyInfo.cs
+E:\ו\.Net\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.csproj.CoreCompileInputs.cache
+E:\ו\.Net\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\ו\.Net\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\ו\.Net\BasicAPI\BasicAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\ו\.Net\BasicAPI\BasicAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\ו\.Net\BasicAPI\BasicAPI\obj\Debug\net6.0\scopedcss\bundle\BasicAPI.styles.css
+E:\ו\.Net\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.csproj.CopyComplete
+E:\ו\.Net\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.dll
+E:\ו\.Net\BasicAPI\BasicAPI\obj\Debug\net6.0\refint\BasicAPI.dll
+E:\ו\.Net\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.pdb
+E:\ו\.Net\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.genruntimeconfig.cache
+E:\ו\.Net\BasicAPI\BasicAPI\obj\Debug\net6.0\ref\BasicAPI.dll
+E:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.csproj.AssemblyReference.cache
+E:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.AssemblyInfoInputs.cache
+E:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.AssemblyInfo.cs
+E:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.csproj.CoreCompileInputs.cache
+E:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.dll
+E:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\refint\BasicAPI.dll
+E:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.pdb
+E:\אנגולר\BasicAPI\BasicAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\אנגולר\BasicAPI\BasicAPI\bin\Debug\net6.0\appsettings.json
+E:\אנגולר\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.exe
+E:\אנגולר\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.deps.json
+E:\אנגולר\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.runtimeconfig.json
+E:\אנגולר\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.dll
+E:\אנגולר\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.pdb
+E:\אנגולר\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\אנגולר\BasicAPI\BasicAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\אנגולר\BasicAPI\BasicAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\אנגולר\BasicAPI\BasicAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\scopedcss\bundle\BasicAPI.styles.css
+E:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.csproj.CopyComplete
+E:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.genruntimeconfig.cache
+E:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\ref\BasicAPI.dll
+D:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.csproj.AssemblyReference.cache
+D:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.AssemblyInfoInputs.cache
+D:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.AssemblyInfo.cs
+D:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.csproj.CoreCompileInputs.cache
+D:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.dll
+D:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\refint\BasicAPI.dll
+D:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.pdb
+D:\אנגולר\BasicAPI\BasicAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\אנגולר\BasicAPI\BasicAPI\bin\Debug\net6.0\appsettings.json
+D:\אנגולר\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.exe
+D:\אנגולר\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.deps.json
+D:\אנגולר\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.runtimeconfig.json
+D:\אנגולר\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.dll
+D:\אנגולר\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.pdb
+D:\אנגולר\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\אנגולר\BasicAPI\BasicAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\אנגולר\BasicAPI\BasicAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\אנגולר\BasicAPI\BasicAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\scopedcss\bundle\BasicAPI.styles.css
+D:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.csproj.CopyComplete
+D:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.genruntimeconfig.cache
+D:\אנגולר\BasicAPI\BasicAPI\obj\Debug\net6.0\ref\BasicAPI.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\angular\BasicAPI\BasicAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\angular\BasicAPI\BasicAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\angular\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.exe
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\angular\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.deps.json
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\angular\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.runtimeconfig.json
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\angular\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\angular\BasicAPI\BasicAPI\bin\Debug\net6.0\BasicAPI.pdb
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\angular\BasicAPI\BasicAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\angular\BasicAPI\BasicAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\angular\BasicAPI\BasicAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\angular\BasicAPI\BasicAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\angular\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.csproj.AssemblyReference.cache
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\angular\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\angular\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.AssemblyInfoInputs.cache
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\angular\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.AssemblyInfo.cs
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\angular\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.csproj.CoreCompileInputs.cache
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\angular\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\angular\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\angular\BasicAPI\BasicAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\angular\BasicAPI\BasicAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\angular\BasicAPI\BasicAPI\obj\Debug\net6.0\scopedcss\bundle\BasicAPI.styles.css
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\angular\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.csproj.CopyComplete
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\angular\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\angular\BasicAPI\BasicAPI\obj\Debug\net6.0\refint\BasicAPI.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\angular\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.pdb
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\angular\BasicAPI\BasicAPI\obj\Debug\net6.0\BasicAPI.genruntimeconfig.cache
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\angular\BasicAPI\BasicAPI\obj\Debug\net6.0\ref\BasicAPI.dll

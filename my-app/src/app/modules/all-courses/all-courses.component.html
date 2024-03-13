@@ -1,0 +1,18 @@
+<!-- <p>all-courses works!</p> -->
+<div>filters:
+    <input [(ngModel)]="name" type="text" placeholder="name" (change)="filterByName()"/>
+    <select [(ngModel)]="ctg" id="category"  (change)="filterByCategory($event)"  >
+        <option *ngFor="let c of categorys" [value]="c.id">{{ c.name }} {{c.iconLink}}</option>
+      </select>
+      <select [(ngModel)]="lm" id="lernningMode"(change)="filterByLm()"  >
+        <option *ngFor="let c of modes" [value]="c">{{ c }}</option>
+      </select>
+</div>
+<ul class="list-group">
+    <li *ngFor="let c of filteredCourses" class="list-group-item">
+        <div class="ui link cards">
+            <app-cours-details [course]="c" (click)="showFullDetails(c)"></app-cours-details>
+        </div>
+    </li>
+</ul>
+<button class="btn btn-primary" (click)="addNewCourse()">Add New Course</button>

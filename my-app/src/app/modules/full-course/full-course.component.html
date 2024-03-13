@@ -1,0 +1,18 @@
+<div class="container">
+    <img [src]="course.image" alt="Course Image">
+    <h2>{{ course.name }}</h2>
+    <p><strong>Category ID:</strong> {{ course.categoryId }}</p>
+    <p><strong>Number of Lessons:</strong> {{ course.numberOfLessons }}</p>
+    <p class="alert"  [ngClass]="{'alert-danger': startsThisWeek}"><strong>Start Date:</strong> {{ course.startDate |date}}</p>
+    <!-- <p class="alert" [ngClass]="{'active':isStartDateInNextWeek}"><strong>Start Date:</strong> {{ course.startDate |date}}</p> -->
+    <!-- <p class="alert" ><strong>Start Date:</strong> {{ course.startDate |date}}<span  class="alert-danger" *ngIf="startsThisWeek"> this week!!!</span></p> -->
+    <p><strong>Syllabus:</strong></p>
+    <ul>
+      <li *ngFor="let topic of course.syllabus">{{ topic }}</li>
+    </ul>        
+    
+<p><strong>Learning Mode:</strong> {{modes[course.learningMode]}}<img style="height: 50px ; width: 50px;" class="mini" src="{{modes[course.learningMode]|IconPipe}}"></p>
+    <p><strong>Lecturer ID:</strong> {{ course.lecturerId }}</p>
+    <br>
+    <button class="btn btn-primary" *ngIf="myCourse" (click)="editMe()">Edit Course</button>
+  </div>

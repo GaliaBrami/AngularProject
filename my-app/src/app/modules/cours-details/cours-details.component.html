@@ -1,0 +1,23 @@
+<!-- <p>cours-details works!</p> -->
+<div class="card">
+    <div class="image">
+        <img class="ui medium rounded image" [src]="course.image">
+    </div>
+    <div class="content">
+        <div class="header">{{course.name}}</div>
+        <div class="description">starts in {{course.startDate | date}}
+            <ul>
+                <li *ngFor="let s of course.syllabus">{{s}}</li>
+            </ul>
+        </div>
+    </div>
+    <div class="extra content">
+        <p class="right floated">
+            {{modes[course.learningMode]}} 
+            <img style="height: 50px ; width: 50px;" class="mini" src="{{modes[course.learningMode]|IconPipe}}">
+        </p>
+        <p>
+            number of lessons: {{course.numberOfLessons}}
+        </p>
+    </div>
+</div>

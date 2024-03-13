@@ -1,0 +1,13 @@
+<div class="container">
+    <div class="header">
+        <nav class="ui secondary pointing menu">
+            <a class="item" routerLink="/allcourses" > all Courses </a>
+            <a class="item" routerLink="/addcourse"> addcourse </a>
+            <a class="item" routerLink="/login"> login </a>
+            <a class="item" routerLink="/register"> register </a>
+                <a class="item"  (click)="logOut()"> logout </a>
+            <img style="height: 50px ; width: 50px;" src="\\assets\\pictures\\logo.png" >
+        </nav>
+    </div>
+    <router-outlet ></router-outlet>
+</div>

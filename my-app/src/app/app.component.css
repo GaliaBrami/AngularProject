@@ -1,0 +1,10 @@
+nav{
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    font-size: large;
+    }
+.header{
+    background-color: rgb(205, 236, 255);
+
+}

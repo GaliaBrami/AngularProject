@@ -1,0 +1,30 @@
+<h1>wellcome to our courses app!</h1>
+
+<form [formGroup]="loginForm">
+    <div class="form-group">
+        <label for="name">Name:</label>
+        <input id="name" class="form-control" type="text" formControlName="name" >
+        <ng-container *ngIf="loginForm.controls['name'].errors">
+            <div class="alert alert-danger" *ngIf="loginForm.controls['name'].errors['required']">This field
+                is required</div>
+        </ng-container>
+        <label for="password">Password:</label>
+        <input id="password" class="form-control" type="password" formControlName="password" >
+        <ng-container *ngIf="loginForm.controls['password'].errors">
+            <div class="alert alert-danger" *ngIf="loginForm.controls['password'].errors['required']">This field
+                is required</div>
+        </ng-container>
+        <ng-container *ngIf="islecturer">
+        <label for="courseName">courseName:</label>
+        <input id="courseName" class="form-control" type="text" formControlName="courseName" >
+        <!-- <ng-container *ngIf="loginForm.controls['courseName'].errors">
+            <div class="alert alert-danger" *ngIf="loginForm.controls['courseName'].errors['required']">This field
+                is required</div>
+        </ng-container> -->
+    </ng-container>
+    </div>
+
+    <button class="btn btn-primary" (click)="check()" [disabled]="!loginForm.valid">Login</button>
+    <div>{{alert}}</div>
+</form>
+<a *ngIf="!islecturer" routerLink="/lecturerlogin">entry as a lecturer</a>
